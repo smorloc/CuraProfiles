@@ -15,4 +15,6 @@ Depending on your requirements, you need to make the following changes after loa
    - For print type of "High Quality", set "Wall thickness" to 2 times your nozzles size
    - For print type of "Thin Walled", set "Wall thickness" to 1.5 times your nozzles size
 
+Also note that the "Full settings" mode of Cura now has "Enable retraction" set by default.  You may want to consider setting retraction in these profile files as well.
+
 
